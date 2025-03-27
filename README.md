@@ -1,7 +1,8 @@
-# Raspy Drone Pro - Moz 7 Integration for Real-Time Object Detection
+# Raspy Drone Pro - Integration for Real-Time Object Detection  
 
-Developed by eng. Jorge Andrés González Carmona, MSc, this project integrates the Moz 7-inch drone, a Raspberry Pi, and the DJI HD camera to enable advanced object detection in real time. Designed to identify persons, vehicles, tanks, animals, and plants, the system processes high-resolution data and transmits results to FPV goggles, combining innovation and precision.
+Developed by Research and Development MSc Engineer Jorge Andrés González Carmona and Eng. Mohammed F. AlFarsi, this project provides a flexible system for integrating any type of drone with a **Raspberry Pi**, a flight controller (FC), and compatible components. Designed to enable advanced real-time object detection, it identifies **persons, vehicles, tanks, animals, and plants** by processing high-resolution data and transmitting results to FPV goggles, combining innovation and precision.
 
+This system is compatible with any drone configuration, as it utilizes modular components such as the flight controller, Raspberry Pi, and a camera system capable of high-quality image capture. The adaptable architecture allows integration with different hardware setups, making it a universal solution for aerial monitoring and detection.
 ---
 
 ## 🌟 Project Overview
